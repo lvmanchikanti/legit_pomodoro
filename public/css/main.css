@@ -8,6 +8,12 @@
 body {
   background-color: #c23f3b;
   padding-top: 200px;
+  background: linear-gradient(218deg,#9a332f, #c23f3b, #f69c58, #f4e186, #aad251, #6bba3c);
+  background-size: 1000% 1000%;
+
+  -webkit-animation: AnimationName 10s ease infinite;
+  -moz-animation: AnimationName 10s ease infinite;
+  animation: AnimationName 10s ease infinite;
 }
 
 #start {
@@ -19,4 +25,22 @@ body {
   /*color: white;*/
   margin-top: 10px;
   font-family: 'Source Sans Pro', 'helvetica';
+}
+
+
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
 }
