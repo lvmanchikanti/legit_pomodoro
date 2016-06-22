@@ -27,8 +27,6 @@ body {
   font-family: 'Source Sans Pro', 'helvetica';
 }
 
-
-
 @-webkit-keyframes AnimationName {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
