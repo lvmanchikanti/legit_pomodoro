@@ -1,8 +1,8 @@
 #timer {
-  font-size: 150px;
+  font-size: 160px;
   color: white;
   padding-left: 240px;
-  font-family: 'Source Sans Pro'
+  font-family: 'Source Sans Pro', 'Helvetica';
 }
 
 body {
@@ -12,11 +12,11 @@ body {
 
 #start {
   color: white;
-  font-family: 'Source Sans Pro';
+  font-family: 'Source Sans Pro', 'helvetica';
 }
 
 #break {
   /*color: white;*/
   margin-top: 10px;
-  font-family: 'Source Sans Pro';
+  font-family: 'Source Sans Pro', 'helvetica';
 }

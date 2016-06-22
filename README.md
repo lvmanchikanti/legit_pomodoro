@@ -7,7 +7,8 @@ I am building a different timer web app using:
 
   ---
 
-  ###User Stories:
+
+###User Stories:
   1. As a user, when I navigate to the page, I see a timer set to 25 minutes.
   2. As a user, when I navigate to the page, I see a start button underneath the timer that starts the time countdown.
   3. As a user, I see a 'break' button that is disabled.
