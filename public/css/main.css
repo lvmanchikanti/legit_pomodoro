@@ -1,0 +1,22 @@
+#timer {
+  font-size: 150px;
+  color: white;
+  padding-left: 240px;
+  font-family: 'Source Sans Pro'
+}
+
+body {
+  background-color: #c23f3b;
+  padding-top: 200px;
+}
+
+#start {
+  color: white;
+  font-family: 'Source Sans Pro';
+}
+
+#break {
+  /*color: white;*/
+  margin-top: 10px;
+  font-family: 'Source Sans Pro';
+}
