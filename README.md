@@ -18,3 +18,5 @@ I am building a different timer web app using:
   7. As a user, when the break button is enabled, I can click it.
   8. As a user, when I click the break button, the timer sets to 5 minutes and begins counting down.
   9. As a user, when the break button is clicked, the background color of the page gradually changes from green to yellow to red.
+  10. As a user, when my mouse hovers over the break button, a tool tip will appear.
+  11. As a user, when the timer ends, a noise plays.
