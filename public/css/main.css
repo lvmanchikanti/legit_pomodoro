@@ -7,7 +7,7 @@
 
 body {
   background-color: #c23f3b;
-  padding-top: 100px;
+  padding-top: 50px;
   background: linear-gradient(218deg,#9a332f, #c23f3b, #f69c58, #f4e186, #aad251, #6bba3c);
   background-size: 1000% 1000%;
 
@@ -41,4 +41,17 @@ body {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
+}
+
+h1 {
+  padding-left: 570px;
+  color: white;
+  font-family: 'Helvetica';
+}
+
+h4 {
+  padding-left: 430px;
+  color: white;
+  font-family: 'Helvetica';
+  padding-bottom: 20px;
 }
