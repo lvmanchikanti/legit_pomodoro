@@ -8,8 +8,8 @@ $(document).ready(function(){
   breakBtn.on('click', takeABreak);
 
   function takeABreak(){
-    minutes.text('00');
-    seconds.text('02');
+    minutes.text('05');
+    seconds.text('00');
     startCountdown();
   }
 
